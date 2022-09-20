@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Hillary Nyakundi
-- 👀 I’m interested in Machine Learning,Data science and python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking forward to collaborate on Machine Learning projects
+- 👀 I’m interested in Web Development with JavaScript and React
+- 🌱 I’m currently learning React
+- 💞️ I’m looking forward to collaborate on React projects
 - 📫 How to reach me : hillarynyakundi66@gmail.com
-                       Twitter @MarangaHillary
+                       Twitter @dev_avid
 
 <!---
 Avid-droid/Avid-droid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
